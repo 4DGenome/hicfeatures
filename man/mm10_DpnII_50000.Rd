@@ -4,7 +4,7 @@
 \name{mm10_DpnII_50000}
 \alias{mm10_DpnII_50000}
 \title{Genomic features for mm10 genome and DpnII restriction enzyme at 50 Kbp}
-\format{A data frame with 54502 rows and 5 variables:
+\format{A data frame with 54502 rows and 6 variables:
  \describe{
    \item{chr:}{chromosome}
    \item{map:}{mappability as computed by gem}

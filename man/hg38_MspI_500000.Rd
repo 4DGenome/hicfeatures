@@ -4,7 +4,7 @@
 \name{hg38_MspI_500000}
 \alias{hg38_MspI_500000}
 \title{Genomic features for hg38 genome and MspI restriction enzyme at 500 Kbp}
-\format{A data frame with 6073 rows and 5 variables:
+\format{A data frame with 6073 rows and 6 variables:
  \describe{
    \item{chr:}{chromosome}
    \item{map:}{mappability as computed by gem}

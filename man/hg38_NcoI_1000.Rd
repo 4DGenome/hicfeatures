@@ -4,7 +4,7 @@
 \name{hg38_NcoI_1000}
 \alias{hg38_NcoI_1000}
 \title{Genomic features for hg38 genome and NcoI restriction enzyme at 1 Kbp}
-\format{A data frame with 3031043 rows and 5 variables:
+\format{A data frame with 3031043 rows and 6 variables:
  \describe{
    \item{chr:}{chromosome}
    \item{map:}{mappability as computed by gem}

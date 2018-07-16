@@ -4,7 +4,7 @@
 \name{hg38_BspHI_10000}
 \alias{hg38_BspHI_10000}
 \title{Genomic features for hg38 genome and BspHI restriction enzyme at 10 Kbp}
-\format{A data frame with 303113 rows and 5 variables:
+\format{A data frame with 303113 rows and 6 variables:
  \describe{
    \item{chr:}{chromosome}
    \item{map:}{mappability as computed by gem}
