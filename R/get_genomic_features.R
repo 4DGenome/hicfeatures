@@ -2,7 +2,7 @@
 #'
 #' This function takes a genome, enzyme and resolution and produces a \code{data.frame} with the corresponding genomic features. It's just a wrapper to the \code{data()} contained in the package. In case that the desired resolution is not available in the pre-computed data, it interpolates the genomic features from the nearest larger resolution available.
 #' @import dplyr
-#' @param geno A \code{string} encoding a genome assemply. Currently, only \code{hg38}, \code{mm10} and \code{dm3} are supported.
+#' @param geno A \code{string} encoding a genome assemply. Currently, only \code{hg38}, \code{mm10},  \code{dm3} and \code{dm6} are supported.
 #' @param geno A \code{string} encoding a restriction enzyme. Currently, only \code{BspHI}, \code{DpnII}, \code{HindIII}, \code{HinfI}, \code{MboI}, \code{MspI}, \code{NcoI} and \code{NlaIII} are supported.
 #' @param reso A \code{integer} with the desired bin size (a.k.a. resolution).
 #' @return A \code{data.frame} containing 6 variables:
@@ -22,7 +22,7 @@
 get_genomic_features <- function(geno, enz, reso){
 
     enz <- ifelse(enz == "MboI", "DpnII", enz)
-    av_genomes <- c("dm3", "hg38", "mm10")
+    av_genomes <- c("dm3", "dm6", "hg38", "mm10")
     av_enzymes <- c("BspHI", "DpnII", "HindIII", "HinfI", "MspI", "NcoI", "NlaIII")
     av_resolutions <- c(1000000, 100000, 10000, 1000, 5000000, 500000, 50000, 5000)
     

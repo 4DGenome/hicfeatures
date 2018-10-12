@@ -7,7 +7,7 @@
 get_genomic_features(geno, enz, reso)
 }
 \arguments{
-\item{geno}{A \code{string} encoding a genome assemply. Currently, only \code{hg38}, \code{mm10} and \code{dm3} are supported.}
+\item{geno}{A \code{string} encoding a genome assemply. Currently, only \code{hg38}, \code{mm10},  \code{dm3} and \code{dm6} are supported.}
 
 \item{reso}{A \code{integer} with the desired bin size (a.k.a. resolution).}
 
