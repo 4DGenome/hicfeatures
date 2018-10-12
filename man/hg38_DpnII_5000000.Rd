@@ -4,7 +4,7 @@
 \name{hg38_DpnII_5000000}
 \alias{hg38_DpnII_5000000}
 \title{Genomic features for hg38 genome and DpnII restriction enzyme at 5000 Kbp}
-\format{A data frame with 619 rows and 6 variables:
+\format{A data frame with 619 rows and 5 variables:
  \describe{
    \item{chr:}{chromosome}
    \item{map:}{mappability as computed by gem}

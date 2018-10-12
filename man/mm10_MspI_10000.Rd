@@ -4,7 +4,7 @@
 \name{mm10_MspI_10000}
 \alias{mm10_MspI_10000}
 \title{Genomic features for mm10 genome and MspI restriction enzyme at 10 Kbp}
-\format{A data frame with 272474 rows and 6 variables:
+\format{A data frame with 272474 rows and 5 variables:
  \describe{
    \item{chr:}{chromosome}
    \item{map:}{mappability as computed by gem}

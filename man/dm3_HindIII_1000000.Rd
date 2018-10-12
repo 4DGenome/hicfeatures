@@ -4,7 +4,7 @@
 \name{dm3_HindIII_1000000}
 \alias{dm3_HindIII_1000000}
 \title{Genomic features for dm3 genome and HindIII restriction enzyme at 1000 Kbp}
-\format{A data frame with 135 rows and 6 variables:
+\format{A data frame with 135 rows and 5 variables:
  \describe{
    \item{chr:}{chromosome}
    \item{map:}{mappability as computed by gem}

@@ -4,7 +4,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' BspHI restriction enzyme in 1 Kbp bins
 #' 
-#' @format A data frame with 130434 rows and 6 variables:
+#' @format A data frame with 130434 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -20,7 +20,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' BspHI restriction enzyme in 10 Kbp bins
 #' 
-#' @format A data frame with 13047 rows and 6 variables:
+#' @format A data frame with 13047 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -36,7 +36,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' BspHI restriction enzyme in 100 Kbp bins
 #' 
-#' @format A data frame with 1309 rows and 6 variables:
+#' @format A data frame with 1309 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -52,7 +52,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' BspHI restriction enzyme in 1000 Kbp bins
 #' 
-#' @format A data frame with 135 rows and 6 variables:
+#' @format A data frame with 135 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -68,7 +68,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' BspHI restriction enzyme in 5 Kbp bins
 #' 
-#' @format A data frame with 26090 rows and 6 variables:
+#' @format A data frame with 26090 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -84,7 +84,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' BspHI restriction enzyme in 50 Kbp bins
 #' 
-#' @format A data frame with 2612 rows and 6 variables:
+#' @format A data frame with 2612 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -100,7 +100,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' BspHI restriction enzyme in 500 Kbp bins
 #' 
-#' @format A data frame with 265 rows and 6 variables:
+#' @format A data frame with 265 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -116,7 +116,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' BspHI restriction enzyme in 5000 Kbp bins
 #' 
-#' @format A data frame with 30 rows and 6 variables:
+#' @format A data frame with 30 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -132,7 +132,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' DpnII restriction enzyme in 1 Kbp bins
 #' 
-#' @format A data frame with 130434 rows and 6 variables:
+#' @format A data frame with 130434 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -148,7 +148,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' DpnII restriction enzyme in 10 Kbp bins
 #' 
-#' @format A data frame with 13047 rows and 6 variables:
+#' @format A data frame with 13047 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -164,7 +164,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' DpnII restriction enzyme in 100 Kbp bins
 #' 
-#' @format A data frame with 1309 rows and 6 variables:
+#' @format A data frame with 1309 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -180,7 +180,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' DpnII restriction enzyme in 1000 Kbp bins
 #' 
-#' @format A data frame with 135 rows and 6 variables:
+#' @format A data frame with 135 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -196,7 +196,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' DpnII restriction enzyme in 5 Kbp bins
 #' 
-#' @format A data frame with 26090 rows and 6 variables:
+#' @format A data frame with 26090 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -212,7 +212,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' DpnII restriction enzyme in 50 Kbp bins
 #' 
-#' @format A data frame with 2612 rows and 6 variables:
+#' @format A data frame with 2612 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -228,7 +228,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' DpnII restriction enzyme in 500 Kbp bins
 #' 
-#' @format A data frame with 265 rows and 6 variables:
+#' @format A data frame with 265 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -244,7 +244,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' DpnII restriction enzyme in 5000 Kbp bins
 #' 
-#' @format A data frame with 30 rows and 6 variables:
+#' @format A data frame with 30 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -260,7 +260,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' HindIII restriction enzyme in 1 Kbp bins
 #' 
-#' @format A data frame with 130434 rows and 6 variables:
+#' @format A data frame with 130434 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -276,7 +276,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' HindIII restriction enzyme in 10 Kbp bins
 #' 
-#' @format A data frame with 13047 rows and 6 variables:
+#' @format A data frame with 13047 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -292,7 +292,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' HindIII restriction enzyme in 100 Kbp bins
 #' 
-#' @format A data frame with 1309 rows and 6 variables:
+#' @format A data frame with 1309 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -308,7 +308,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' HindIII restriction enzyme in 1000 Kbp bins
 #' 
-#' @format A data frame with 135 rows and 6 variables:
+#' @format A data frame with 135 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -324,7 +324,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' HindIII restriction enzyme in 5 Kbp bins
 #' 
-#' @format A data frame with 26090 rows and 6 variables:
+#' @format A data frame with 26090 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -340,7 +340,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' HindIII restriction enzyme in 50 Kbp bins
 #' 
-#' @format A data frame with 2612 rows and 6 variables:
+#' @format A data frame with 2612 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -356,7 +356,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' HindIII restriction enzyme in 500 Kbp bins
 #' 
-#' @format A data frame with 265 rows and 6 variables:
+#' @format A data frame with 265 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -372,7 +372,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' HindIII restriction enzyme in 5000 Kbp bins
 #' 
-#' @format A data frame with 30 rows and 6 variables:
+#' @format A data frame with 30 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -388,7 +388,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' HinfI restriction enzyme in 1 Kbp bins
 #' 
-#' @format A data frame with 130434 rows and 6 variables:
+#' @format A data frame with 130434 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -404,7 +404,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' HinfI restriction enzyme in 10 Kbp bins
 #' 
-#' @format A data frame with 13047 rows and 6 variables:
+#' @format A data frame with 13047 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -420,7 +420,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' HinfI restriction enzyme in 100 Kbp bins
 #' 
-#' @format A data frame with 1309 rows and 6 variables:
+#' @format A data frame with 1309 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -436,7 +436,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' HinfI restriction enzyme in 1000 Kbp bins
 #' 
-#' @format A data frame with 135 rows and 6 variables:
+#' @format A data frame with 135 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -452,7 +452,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' HinfI restriction enzyme in 5 Kbp bins
 #' 
-#' @format A data frame with 26090 rows and 6 variables:
+#' @format A data frame with 26090 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -468,7 +468,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' HinfI restriction enzyme in 50 Kbp bins
 #' 
-#' @format A data frame with 2612 rows and 6 variables:
+#' @format A data frame with 2612 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -484,7 +484,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' HinfI restriction enzyme in 500 Kbp bins
 #' 
-#' @format A data frame with 265 rows and 6 variables:
+#' @format A data frame with 265 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -500,7 +500,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' HinfI restriction enzyme in 5000 Kbp bins
 #' 
-#' @format A data frame with 30 rows and 6 variables:
+#' @format A data frame with 30 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -516,7 +516,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' MspI restriction enzyme in 1 Kbp bins
 #' 
-#' @format A data frame with 130434 rows and 6 variables:
+#' @format A data frame with 130434 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -532,7 +532,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' MspI restriction enzyme in 10 Kbp bins
 #' 
-#' @format A data frame with 13047 rows and 6 variables:
+#' @format A data frame with 13047 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -548,7 +548,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' MspI restriction enzyme in 100 Kbp bins
 #' 
-#' @format A data frame with 1309 rows and 6 variables:
+#' @format A data frame with 1309 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -564,7 +564,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' MspI restriction enzyme in 1000 Kbp bins
 #' 
-#' @format A data frame with 135 rows and 6 variables:
+#' @format A data frame with 135 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -580,7 +580,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' MspI restriction enzyme in 5 Kbp bins
 #' 
-#' @format A data frame with 26090 rows and 6 variables:
+#' @format A data frame with 26090 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -596,7 +596,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' MspI restriction enzyme in 50 Kbp bins
 #' 
-#' @format A data frame with 2612 rows and 6 variables:
+#' @format A data frame with 2612 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -612,7 +612,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' MspI restriction enzyme in 500 Kbp bins
 #' 
-#' @format A data frame with 265 rows and 6 variables:
+#' @format A data frame with 265 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -628,7 +628,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' MspI restriction enzyme in 5000 Kbp bins
 #' 
-#' @format A data frame with 30 rows and 6 variables:
+#' @format A data frame with 30 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -644,7 +644,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' NcoI restriction enzyme in 1 Kbp bins
 #' 
-#' @format A data frame with 130434 rows and 6 variables:
+#' @format A data frame with 130434 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -660,7 +660,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' NcoI restriction enzyme in 10 Kbp bins
 #' 
-#' @format A data frame with 13047 rows and 6 variables:
+#' @format A data frame with 13047 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -676,7 +676,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' NcoI restriction enzyme in 100 Kbp bins
 #' 
-#' @format A data frame with 1309 rows and 6 variables:
+#' @format A data frame with 1309 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -692,7 +692,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' NcoI restriction enzyme in 1000 Kbp bins
 #' 
-#' @format A data frame with 135 rows and 6 variables:
+#' @format A data frame with 135 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -708,7 +708,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' NcoI restriction enzyme in 5 Kbp bins
 #' 
-#' @format A data frame with 26090 rows and 6 variables:
+#' @format A data frame with 26090 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -724,7 +724,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' NcoI restriction enzyme in 50 Kbp bins
 #' 
-#' @format A data frame with 2612 rows and 6 variables:
+#' @format A data frame with 2612 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -740,7 +740,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' NcoI restriction enzyme in 500 Kbp bins
 #' 
-#' @format A data frame with 265 rows and 6 variables:
+#' @format A data frame with 265 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -756,7 +756,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' NcoI restriction enzyme in 5000 Kbp bins
 #' 
-#' @format A data frame with 30 rows and 6 variables:
+#' @format A data frame with 30 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -772,7 +772,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' NlaIII restriction enzyme in 1 Kbp bins
 #' 
-#' @format A data frame with 130434 rows and 6 variables:
+#' @format A data frame with 130434 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -788,7 +788,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' NlaIII restriction enzyme in 10 Kbp bins
 #' 
-#' @format A data frame with 13047 rows and 6 variables:
+#' @format A data frame with 13047 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -804,7 +804,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' NlaIII restriction enzyme in 100 Kbp bins
 #' 
-#' @format A data frame with 1309 rows and 6 variables:
+#' @format A data frame with 1309 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -820,7 +820,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' NlaIII restriction enzyme in 1000 Kbp bins
 #' 
-#' @format A data frame with 135 rows and 6 variables:
+#' @format A data frame with 135 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -836,7 +836,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' NlaIII restriction enzyme in 5 Kbp bins
 #' 
-#' @format A data frame with 26090 rows and 6 variables:
+#' @format A data frame with 26090 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -852,7 +852,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' NlaIII restriction enzyme in 50 Kbp bins
 #' 
-#' @format A data frame with 2612 rows and 6 variables:
+#' @format A data frame with 2612 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -868,7 +868,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' NlaIII restriction enzyme in 500 Kbp bins
 #' 
-#' @format A data frame with 265 rows and 6 variables:
+#' @format A data frame with 265 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -884,7 +884,7 @@
 #' enzyme density and CG proportion of the dm3 genome and
 #' NlaIII restriction enzyme in 5000 Kbp bins
 #' 
-#' @format A data frame with 30 rows and 6 variables:
+#' @format A data frame with 30 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -894,13 +894,653 @@
 #'    \item{pos:}{start postion of the genomic bin}
 #'  }
 "dm3_NlaIII_5000000"
+#' Genomic features for dm6 genome and BspHI restriction enzyme at 1 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' BspHI restriction enzyme in 1 Kbp bins
+#' 
+#' @format A data frame with 137547 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_BspHI_1000"
+#' Genomic features for dm6 genome and BspHI restriction enzyme at 10 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' BspHI restriction enzyme in 10 Kbp bins
+#' 
+#' @format A data frame with 13758 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_BspHI_10000"
+#' Genomic features for dm6 genome and BspHI restriction enzyme at 100 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' BspHI restriction enzyme in 100 Kbp bins
+#' 
+#' @format A data frame with 1379 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_BspHI_100000"
+#' Genomic features for dm6 genome and BspHI restriction enzyme at 1000 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' BspHI restriction enzyme in 1000 Kbp bins
+#' 
+#' @format A data frame with 142 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_BspHI_1000000"
+#' Genomic features for dm6 genome and BspHI restriction enzyme at 5 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' BspHI restriction enzyme in 5 Kbp bins
+#' 
+#' @format A data frame with 27512 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_BspHI_5000"
+#' Genomic features for dm6 genome and BspHI restriction enzyme at 50 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' BspHI restriction enzyme in 50 Kbp bins
+#' 
+#' @format A data frame with 2754 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_BspHI_50000"
+#' Genomic features for dm6 genome and BspHI restriction enzyme at 500 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' BspHI restriction enzyme in 500 Kbp bins
+#' 
+#' @format A data frame with 280 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_BspHI_500000"
+#' Genomic features for dm6 genome and BspHI restriction enzyme at 5000 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' BspHI restriction enzyme in 5000 Kbp bins
+#' 
+#' @format A data frame with 31 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_BspHI_5000000"
+#' Genomic features for dm6 genome and DpnII restriction enzyme at 1 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' DpnII restriction enzyme in 1 Kbp bins
+#' 
+#' @format A data frame with 137547 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_DpnII_1000"
+#' Genomic features for dm6 genome and DpnII restriction enzyme at 10 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' DpnII restriction enzyme in 10 Kbp bins
+#' 
+#' @format A data frame with 13758 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_DpnII_10000"
+#' Genomic features for dm6 genome and DpnII restriction enzyme at 100 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' DpnII restriction enzyme in 100 Kbp bins
+#' 
+#' @format A data frame with 1379 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_DpnII_100000"
+#' Genomic features for dm6 genome and DpnII restriction enzyme at 1000 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' DpnII restriction enzyme in 1000 Kbp bins
+#' 
+#' @format A data frame with 142 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_DpnII_1000000"
+#' Genomic features for dm6 genome and DpnII restriction enzyme at 5 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' DpnII restriction enzyme in 5 Kbp bins
+#' 
+#' @format A data frame with 27512 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_DpnII_5000"
+#' Genomic features for dm6 genome and DpnII restriction enzyme at 50 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' DpnII restriction enzyme in 50 Kbp bins
+#' 
+#' @format A data frame with 2754 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_DpnII_50000"
+#' Genomic features for dm6 genome and DpnII restriction enzyme at 500 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' DpnII restriction enzyme in 500 Kbp bins
+#' 
+#' @format A data frame with 280 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_DpnII_500000"
+#' Genomic features for dm6 genome and DpnII restriction enzyme at 5000 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' DpnII restriction enzyme in 5000 Kbp bins
+#' 
+#' @format A data frame with 31 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_DpnII_5000000"
+#' Genomic features for dm6 genome and HindIII restriction enzyme at 1 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' HindIII restriction enzyme in 1 Kbp bins
+#' 
+#' @format A data frame with 137547 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_HindIII_1000"
+#' Genomic features for dm6 genome and HindIII restriction enzyme at 10 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' HindIII restriction enzyme in 10 Kbp bins
+#' 
+#' @format A data frame with 13758 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_HindIII_10000"
+#' Genomic features for dm6 genome and HindIII restriction enzyme at 100 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' HindIII restriction enzyme in 100 Kbp bins
+#' 
+#' @format A data frame with 1379 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_HindIII_100000"
+#' Genomic features for dm6 genome and HindIII restriction enzyme at 1000 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' HindIII restriction enzyme in 1000 Kbp bins
+#' 
+#' @format A data frame with 142 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_HindIII_1000000"
+#' Genomic features for dm6 genome and HindIII restriction enzyme at 5 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' HindIII restriction enzyme in 5 Kbp bins
+#' 
+#' @format A data frame with 27512 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_HindIII_5000"
+#' Genomic features for dm6 genome and HindIII restriction enzyme at 50 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' HindIII restriction enzyme in 50 Kbp bins
+#' 
+#' @format A data frame with 2754 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_HindIII_50000"
+#' Genomic features for dm6 genome and HindIII restriction enzyme at 500 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' HindIII restriction enzyme in 500 Kbp bins
+#' 
+#' @format A data frame with 280 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_HindIII_500000"
+#' Genomic features for dm6 genome and HindIII restriction enzyme at 5000 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' HindIII restriction enzyme in 5000 Kbp bins
+#' 
+#' @format A data frame with 31 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_HindIII_5000000"
+#' Genomic features for dm6 genome and MspI restriction enzyme at 1 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' MspI restriction enzyme in 1 Kbp bins
+#' 
+#' @format A data frame with 137547 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_MspI_1000"
+#' Genomic features for dm6 genome and MspI restriction enzyme at 10 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' MspI restriction enzyme in 10 Kbp bins
+#' 
+#' @format A data frame with 13758 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_MspI_10000"
+#' Genomic features for dm6 genome and MspI restriction enzyme at 100 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' MspI restriction enzyme in 100 Kbp bins
+#' 
+#' @format A data frame with 1379 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_MspI_100000"
+#' Genomic features for dm6 genome and MspI restriction enzyme at 1000 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' MspI restriction enzyme in 1000 Kbp bins
+#' 
+#' @format A data frame with 142 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_MspI_1000000"
+#' Genomic features for dm6 genome and MspI restriction enzyme at 5 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' MspI restriction enzyme in 5 Kbp bins
+#' 
+#' @format A data frame with 27512 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_MspI_5000"
+#' Genomic features for dm6 genome and MspI restriction enzyme at 50 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' MspI restriction enzyme in 50 Kbp bins
+#' 
+#' @format A data frame with 2754 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_MspI_50000"
+#' Genomic features for dm6 genome and MspI restriction enzyme at 500 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' MspI restriction enzyme in 500 Kbp bins
+#' 
+#' @format A data frame with 280 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_MspI_500000"
+#' Genomic features for dm6 genome and MspI restriction enzyme at 5000 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' MspI restriction enzyme in 5000 Kbp bins
+#' 
+#' @format A data frame with 31 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_MspI_5000000"
+#' Genomic features for dm6 genome and NcoI restriction enzyme at 1 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' NcoI restriction enzyme in 1 Kbp bins
+#' 
+#' @format A data frame with 137547 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_NcoI_1000"
+#' Genomic features for dm6 genome and NcoI restriction enzyme at 10 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' NcoI restriction enzyme in 10 Kbp bins
+#' 
+#' @format A data frame with 13758 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_NcoI_10000"
+#' Genomic features for dm6 genome and NcoI restriction enzyme at 100 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' NcoI restriction enzyme in 100 Kbp bins
+#' 
+#' @format A data frame with 1379 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_NcoI_100000"
+#' Genomic features for dm6 genome and NcoI restriction enzyme at 1000 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' NcoI restriction enzyme in 1000 Kbp bins
+#' 
+#' @format A data frame with 142 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_NcoI_1000000"
+#' Genomic features for dm6 genome and NcoI restriction enzyme at 5 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' NcoI restriction enzyme in 5 Kbp bins
+#' 
+#' @format A data frame with 27512 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_NcoI_5000"
+#' Genomic features for dm6 genome and NcoI restriction enzyme at 50 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' NcoI restriction enzyme in 50 Kbp bins
+#' 
+#' @format A data frame with 2754 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_NcoI_50000"
+#' Genomic features for dm6 genome and NcoI restriction enzyme at 500 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' NcoI restriction enzyme in 500 Kbp bins
+#' 
+#' @format A data frame with 280 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_NcoI_500000"
+#' Genomic features for dm6 genome and NcoI restriction enzyme at 5000 Kbp
+#'
+#' A \code{data.frame} containing the mappability, restriction
+#' enzyme density and CG proportion of the dm6 genome and
+#' NcoI restriction enzyme in 5000 Kbp bins
+#' 
+#' @format A data frame with 31 rows and 5 variables:
+#'  \describe{
+#'    \item{chr:}{chromosome}
+#'    \item{map:}{mappability as computed by gem}
+#'    \item{res:}{restriction enzyme density per 1 Kbp computed by Biostrings::matchPattern()}
+#'    \item{cg:}{cg content as computed by bedtools}
+#'    \item{bin:}{genomic bin with the format chromosome:start_position}
+#'    \item{pos:}{start postion of the genomic bin}
+#'  }
+"dm6_NcoI_5000000"
 #' Genomic features for hg38 genome and BspHI restriction enzyme at 1 Kbp
 #'
 #' A \code{data.frame} containing the mappability, restriction
 #' enzyme density and CG proportion of the hg38 genome and
 #' BspHI restriction enzyme in 1 Kbp bins
 #' 
-#' @format A data frame with 3031043 rows and 6 variables:
+#' @format A data frame with 3031043 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -916,7 +1556,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' BspHI restriction enzyme in 10 Kbp bins
 #' 
-#' @format A data frame with 303113 rows and 6 variables:
+#' @format A data frame with 303113 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -932,7 +1572,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' BspHI restriction enzyme in 100 Kbp bins
 #' 
-#' @format A data frame with 30321 rows and 6 variables:
+#' @format A data frame with 30321 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -948,7 +1588,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' BspHI restriction enzyme in 1000 Kbp bins
 #' 
-#' @format A data frame with 3044 rows and 6 variables:
+#' @format A data frame with 3044 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -964,7 +1604,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' BspHI restriction enzyme in 5 Kbp bins
 #' 
-#' @format A data frame with 606217 rows and 6 variables:
+#' @format A data frame with 606217 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -980,7 +1620,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' BspHI restriction enzyme in 50 Kbp bins
 #' 
-#' @format A data frame with 60630 rows and 6 variables:
+#' @format A data frame with 60630 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -996,7 +1636,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' BspHI restriction enzyme in 500 Kbp bins
 #' 
-#' @format A data frame with 6073 rows and 6 variables:
+#' @format A data frame with 6073 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1012,7 +1652,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' BspHI restriction enzyme in 5000 Kbp bins
 #' 
-#' @format A data frame with 619 rows and 6 variables:
+#' @format A data frame with 619 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1028,7 +1668,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' DpnII restriction enzyme in 1 Kbp bins
 #' 
-#' @format A data frame with 3031043 rows and 6 variables:
+#' @format A data frame with 3031043 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1044,7 +1684,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' DpnII restriction enzyme in 10 Kbp bins
 #' 
-#' @format A data frame with 303113 rows and 6 variables:
+#' @format A data frame with 303113 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1060,7 +1700,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' DpnII restriction enzyme in 100 Kbp bins
 #' 
-#' @format A data frame with 30321 rows and 6 variables:
+#' @format A data frame with 30321 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1076,7 +1716,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' DpnII restriction enzyme in 1000 Kbp bins
 #' 
-#' @format A data frame with 3044 rows and 6 variables:
+#' @format A data frame with 3044 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1092,7 +1732,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' DpnII restriction enzyme in 5 Kbp bins
 #' 
-#' @format A data frame with 606217 rows and 6 variables:
+#' @format A data frame with 606217 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1108,7 +1748,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' DpnII restriction enzyme in 50 Kbp bins
 #' 
-#' @format A data frame with 60630 rows and 6 variables:
+#' @format A data frame with 60630 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1124,7 +1764,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' DpnII restriction enzyme in 500 Kbp bins
 #' 
-#' @format A data frame with 6073 rows and 6 variables:
+#' @format A data frame with 6073 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1140,7 +1780,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' DpnII restriction enzyme in 5000 Kbp bins
 #' 
-#' @format A data frame with 619 rows and 6 variables:
+#' @format A data frame with 619 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1156,7 +1796,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' HindIII restriction enzyme in 1 Kbp bins
 #' 
-#' @format A data frame with 3031043 rows and 6 variables:
+#' @format A data frame with 3031043 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1172,7 +1812,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' HindIII restriction enzyme in 10 Kbp bins
 #' 
-#' @format A data frame with 303113 rows and 6 variables:
+#' @format A data frame with 303113 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1188,7 +1828,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' HindIII restriction enzyme in 100 Kbp bins
 #' 
-#' @format A data frame with 30321 rows and 6 variables:
+#' @format A data frame with 30321 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1204,7 +1844,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' HindIII restriction enzyme in 1000 Kbp bins
 #' 
-#' @format A data frame with 3044 rows and 6 variables:
+#' @format A data frame with 3044 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1220,7 +1860,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' HindIII restriction enzyme in 5 Kbp bins
 #' 
-#' @format A data frame with 606217 rows and 6 variables:
+#' @format A data frame with 606217 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1236,7 +1876,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' HindIII restriction enzyme in 50 Kbp bins
 #' 
-#' @format A data frame with 60630 rows and 6 variables:
+#' @format A data frame with 60630 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1252,7 +1892,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' HindIII restriction enzyme in 500 Kbp bins
 #' 
-#' @format A data frame with 6073 rows and 6 variables:
+#' @format A data frame with 6073 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1268,7 +1908,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' HindIII restriction enzyme in 5000 Kbp bins
 #' 
-#' @format A data frame with 619 rows and 6 variables:
+#' @format A data frame with 619 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1284,7 +1924,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' MspI restriction enzyme in 1 Kbp bins
 #' 
-#' @format A data frame with 3031043 rows and 6 variables:
+#' @format A data frame with 3031043 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1300,7 +1940,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' MspI restriction enzyme in 10 Kbp bins
 #' 
-#' @format A data frame with 303113 rows and 6 variables:
+#' @format A data frame with 303113 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1316,7 +1956,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' MspI restriction enzyme in 100 Kbp bins
 #' 
-#' @format A data frame with 30321 rows and 6 variables:
+#' @format A data frame with 30321 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1332,7 +1972,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' MspI restriction enzyme in 1000 Kbp bins
 #' 
-#' @format A data frame with 3044 rows and 6 variables:
+#' @format A data frame with 3044 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1348,7 +1988,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' MspI restriction enzyme in 5 Kbp bins
 #' 
-#' @format A data frame with 606217 rows and 6 variables:
+#' @format A data frame with 606217 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1364,7 +2004,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' MspI restriction enzyme in 50 Kbp bins
 #' 
-#' @format A data frame with 60630 rows and 6 variables:
+#' @format A data frame with 60630 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1380,7 +2020,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' MspI restriction enzyme in 500 Kbp bins
 #' 
-#' @format A data frame with 6073 rows and 6 variables:
+#' @format A data frame with 6073 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1396,7 +2036,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' MspI restriction enzyme in 5000 Kbp bins
 #' 
-#' @format A data frame with 619 rows and 6 variables:
+#' @format A data frame with 619 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1412,7 +2052,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' NcoI restriction enzyme in 1 Kbp bins
 #' 
-#' @format A data frame with 3031043 rows and 6 variables:
+#' @format A data frame with 3031043 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1428,7 +2068,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' NcoI restriction enzyme in 10 Kbp bins
 #' 
-#' @format A data frame with 303113 rows and 6 variables:
+#' @format A data frame with 303113 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1444,7 +2084,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' NcoI restriction enzyme in 100 Kbp bins
 #' 
-#' @format A data frame with 30321 rows and 6 variables:
+#' @format A data frame with 30321 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1460,7 +2100,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' NcoI restriction enzyme in 1000 Kbp bins
 #' 
-#' @format A data frame with 3044 rows and 6 variables:
+#' @format A data frame with 3044 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1476,7 +2116,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' NcoI restriction enzyme in 5 Kbp bins
 #' 
-#' @format A data frame with 606217 rows and 6 variables:
+#' @format A data frame with 606217 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1492,7 +2132,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' NcoI restriction enzyme in 50 Kbp bins
 #' 
-#' @format A data frame with 60630 rows and 6 variables:
+#' @format A data frame with 60630 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1508,7 +2148,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' NcoI restriction enzyme in 500 Kbp bins
 #' 
-#' @format A data frame with 6073 rows and 6 variables:
+#' @format A data frame with 6073 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1524,7 +2164,7 @@
 #' enzyme density and CG proportion of the hg38 genome and
 #' NcoI restriction enzyme in 5000 Kbp bins
 #' 
-#' @format A data frame with 619 rows and 6 variables:
+#' @format A data frame with 619 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1540,7 +2180,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' BspHI restriction enzyme in 1 Kbp bins
 #' 
-#' @format A data frame with 2724632 rows and 6 variables:
+#' @format A data frame with 2724632 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1556,7 +2196,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' BspHI restriction enzyme in 10 Kbp bins
 #' 
-#' @format A data frame with 272474 rows and 6 variables:
+#' @format A data frame with 272474 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1572,7 +2212,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' BspHI restriction enzyme in 100 Kbp bins
 #' 
-#' @format A data frame with 27259 rows and 6 variables:
+#' @format A data frame with 27259 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1588,7 +2228,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' BspHI restriction enzyme in 1000 Kbp bins
 #' 
-#' @format A data frame with 2736 rows and 6 variables:
+#' @format A data frame with 2736 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1604,7 +2244,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' BspHI restriction enzyme in 5 Kbp bins
 #' 
-#' @format A data frame with 544934 rows and 6 variables:
+#' @format A data frame with 544934 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1620,7 +2260,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' BspHI restriction enzyme in 50 Kbp bins
 #' 
-#' @format A data frame with 54502 rows and 6 variables:
+#' @format A data frame with 54502 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1636,7 +2276,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' BspHI restriction enzyme in 500 Kbp bins
 #' 
-#' @format A data frame with 5460 rows and 6 variables:
+#' @format A data frame with 5460 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1652,7 +2292,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' BspHI restriction enzyme in 5000 Kbp bins
 #' 
-#' @format A data frame with 557 rows and 6 variables:
+#' @format A data frame with 557 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1668,7 +2308,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' DpnII restriction enzyme in 1 Kbp bins
 #' 
-#' @format A data frame with 2724632 rows and 6 variables:
+#' @format A data frame with 2724632 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1684,7 +2324,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' DpnII restriction enzyme in 10 Kbp bins
 #' 
-#' @format A data frame with 272474 rows and 6 variables:
+#' @format A data frame with 272474 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1700,7 +2340,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' DpnII restriction enzyme in 100 Kbp bins
 #' 
-#' @format A data frame with 27259 rows and 6 variables:
+#' @format A data frame with 27259 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1716,7 +2356,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' DpnII restriction enzyme in 1000 Kbp bins
 #' 
-#' @format A data frame with 2736 rows and 6 variables:
+#' @format A data frame with 2736 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1732,7 +2372,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' DpnII restriction enzyme in 5 Kbp bins
 #' 
-#' @format A data frame with 544934 rows and 6 variables:
+#' @format A data frame with 544934 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1748,7 +2388,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' DpnII restriction enzyme in 50 Kbp bins
 #' 
-#' @format A data frame with 54502 rows and 6 variables:
+#' @format A data frame with 54502 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1764,7 +2404,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' DpnII restriction enzyme in 500 Kbp bins
 #' 
-#' @format A data frame with 5460 rows and 6 variables:
+#' @format A data frame with 5460 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1780,7 +2420,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' DpnII restriction enzyme in 5000 Kbp bins
 #' 
-#' @format A data frame with 557 rows and 6 variables:
+#' @format A data frame with 557 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1796,7 +2436,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' HindIII restriction enzyme in 1 Kbp bins
 #' 
-#' @format A data frame with 2724632 rows and 6 variables:
+#' @format A data frame with 2724632 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1812,7 +2452,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' HindIII restriction enzyme in 10 Kbp bins
 #' 
-#' @format A data frame with 272474 rows and 6 variables:
+#' @format A data frame with 272474 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1828,7 +2468,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' HindIII restriction enzyme in 100 Kbp bins
 #' 
-#' @format A data frame with 27259 rows and 6 variables:
+#' @format A data frame with 27259 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1844,7 +2484,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' HindIII restriction enzyme in 1000 Kbp bins
 #' 
-#' @format A data frame with 2736 rows and 6 variables:
+#' @format A data frame with 2736 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1860,7 +2500,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' HindIII restriction enzyme in 5 Kbp bins
 #' 
-#' @format A data frame with 544934 rows and 6 variables:
+#' @format A data frame with 544934 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1876,7 +2516,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' HindIII restriction enzyme in 50 Kbp bins
 #' 
-#' @format A data frame with 54502 rows and 6 variables:
+#' @format A data frame with 54502 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1892,7 +2532,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' HindIII restriction enzyme in 500 Kbp bins
 #' 
-#' @format A data frame with 5460 rows and 6 variables:
+#' @format A data frame with 5460 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1908,7 +2548,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' HindIII restriction enzyme in 5000 Kbp bins
 #' 
-#' @format A data frame with 557 rows and 6 variables:
+#' @format A data frame with 557 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1924,7 +2564,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' MspI restriction enzyme in 1 Kbp bins
 #' 
-#' @format A data frame with 2724632 rows and 6 variables:
+#' @format A data frame with 2724632 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1940,7 +2580,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' MspI restriction enzyme in 10 Kbp bins
 #' 
-#' @format A data frame with 272474 rows and 6 variables:
+#' @format A data frame with 272474 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1956,7 +2596,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' MspI restriction enzyme in 100 Kbp bins
 #' 
-#' @format A data frame with 27259 rows and 6 variables:
+#' @format A data frame with 27259 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1972,7 +2612,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' MspI restriction enzyme in 1000 Kbp bins
 #' 
-#' @format A data frame with 2736 rows and 6 variables:
+#' @format A data frame with 2736 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -1988,7 +2628,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' MspI restriction enzyme in 5 Kbp bins
 #' 
-#' @format A data frame with 544934 rows and 6 variables:
+#' @format A data frame with 544934 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -2004,7 +2644,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' MspI restriction enzyme in 50 Kbp bins
 #' 
-#' @format A data frame with 54502 rows and 6 variables:
+#' @format A data frame with 54502 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -2020,7 +2660,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' MspI restriction enzyme in 500 Kbp bins
 #' 
-#' @format A data frame with 5460 rows and 6 variables:
+#' @format A data frame with 5460 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -2036,7 +2676,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' MspI restriction enzyme in 5000 Kbp bins
 #' 
-#' @format A data frame with 557 rows and 6 variables:
+#' @format A data frame with 557 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -2052,7 +2692,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' NcoI restriction enzyme in 1 Kbp bins
 #' 
-#' @format A data frame with 2724632 rows and 6 variables:
+#' @format A data frame with 2724632 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -2068,7 +2708,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' NcoI restriction enzyme in 10 Kbp bins
 #' 
-#' @format A data frame with 272474 rows and 6 variables:
+#' @format A data frame with 272474 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -2084,7 +2724,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' NcoI restriction enzyme in 100 Kbp bins
 #' 
-#' @format A data frame with 27259 rows and 6 variables:
+#' @format A data frame with 27259 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -2100,7 +2740,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' NcoI restriction enzyme in 1000 Kbp bins
 #' 
-#' @format A data frame with 2736 rows and 6 variables:
+#' @format A data frame with 2736 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -2116,7 +2756,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' NcoI restriction enzyme in 5 Kbp bins
 #' 
-#' @format A data frame with 544934 rows and 6 variables:
+#' @format A data frame with 544934 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -2132,7 +2772,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' NcoI restriction enzyme in 50 Kbp bins
 #' 
-#' @format A data frame with 54502 rows and 6 variables:
+#' @format A data frame with 54502 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -2148,7 +2788,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' NcoI restriction enzyme in 500 Kbp bins
 #' 
-#' @format A data frame with 5460 rows and 6 variables:
+#' @format A data frame with 5460 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}
@@ -2164,7 +2804,7 @@
 #' enzyme density and CG proportion of the mm10 genome and
 #' NcoI restriction enzyme in 5000 Kbp bins
 #' 
-#' @format A data frame with 557 rows and 6 variables:
+#' @format A data frame with 557 rows and 5 variables:
 #'  \describe{
 #'    \item{chr:}{chromosome}
 #'    \item{map:}{mappability as computed by gem}

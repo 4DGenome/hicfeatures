@@ -4,7 +4,7 @@
 \name{dm3_NcoI_5000000}
 \alias{dm3_NcoI_5000000}
 \title{Genomic features for dm3 genome and NcoI restriction enzyme at 5000 Kbp}
-\format{A data frame with 30 rows and 6 variables:
+\format{A data frame with 30 rows and 5 variables:
  \describe{
    \item{chr:}{chromosome}
    \item{map:}{mappability as computed by gem}
